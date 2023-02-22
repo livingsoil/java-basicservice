@@ -1,3 +1,5 @@
+### Getting Started
+
 Check your maven version
 ```bash
 mvn -v
@@ -10,6 +12,9 @@ To run the project
 ```bash
 mvn spring-boot:run
 ```
+
+**Check the pom.xml for java version**
+
 Url to access application: http://localhost:8080
 
 Use [Postman](https://www.postman.com/downloads/) to easily keep track of requests
